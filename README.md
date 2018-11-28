@@ -25,7 +25,7 @@ receive the device OS in params way and create the redirect to app (if is instal
 
 
 
-#redirectToPlaystoreApp()
+# redirectToPlaystoreApp()
 
 really is a global method and only not redirect to playstore, already this method can redirect to playstore or
 appstore with the url to app.
